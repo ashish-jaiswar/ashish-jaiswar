@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with cyber security and kubernetes
 - 💬 Ask me about kubernets and docker
-- 📫 How to reach me: [twitter](@ashishkrily "twitter- @ashishkrily")
+- 📫 How to reach me: [twitter-@ashishkrily](@ashishkrily)
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: ...
 -->
